@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @pnrop02
 - 👀 I’m interested in UX/UI design, Developing and Testing Software.
+- 😄 Pronouns: They/Them
 <!-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: ... -->
-- 😄 Pronouns: They/Them
+
 
 
 <!---
